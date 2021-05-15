@@ -1,0 +1,13 @@
+
+h1{
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  border-bottom: 3px solid rgba(1,1,1,0.3);
+}
+
+img{
+  width:30%;
+  float:left;
+  margin:1.66%;
+
+}

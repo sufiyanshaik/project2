@@ -1,0 +1,29 @@
+body{
+  background: rgba(1,1,1,0.3)
+}
+h1{
+  text-align: center;
+  height: 200px;
+  width: 200px;
+  font-family: 'Permanent Marker', cursive;
+  border-bottom: 3px solid blue;
+}
+.tab{
+  margin:auto;
+}
+td{
+  height: 100px;
+  width:100px;
+}
+.second{
+  border-left: 3px solid;
+  border-right: 3px solid;
+}
+.middle{
+  border-top: 3px solid;
+  border-bottom: 3px solid;
+
+}
+td:hover{
+  border:2px solid blue;
+}

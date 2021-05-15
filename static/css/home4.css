@@ -1,0 +1,38 @@
+body{
+  background: #011627;
+  color:#fdfffc;
+  text-align: center;
+  border: 30px solid #2EC486;
+  padding: 100px;
+  margin:0;
+}
+
+
+
+h1{
+  text-align: center;
+  font-family: 'Sanchez', serif;
+  font-size: 50px;
+}
+h2{
+  font-family: 'Sanchez', serif;
+}
+p{
+  font-family: 'Akaya Telivigala', cursive;
+  font-weight: normal;
+  font-size: 25px;
+}
+form{
+  font-size: 1.5em;
+  font-family: 'Akaya Telivigala', cursive;
+  /* background: #2EC486; */
+}
+#sub{
+  margin:10px;
+  width:100px;
+  height:40px;
+  background: #2EC486;
+  border-radius: 25px;
+  border-style: hidden;
+
+}
